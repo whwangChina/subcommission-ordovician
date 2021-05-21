@@ -7,13 +7,13 @@ permalink: /timescale
 
 Standard global stages of the Ordovician System are characterised on separate pages:
 
-* [Hirnantian](/hirnantian)
-* [Katian](/katian)
-* [Sandbian](/sandbian)
-* [Darriwilian](/darriwilian)
-* [Dapingian](/dapingian)
-* [Floian](/floian)
-* [Tremadocian](/tremadocian)
+* [Hirnantian](hirnantian)
+* [Katian](katian)
+* [Sandbian](sandbian)
+* [Darriwilian](darriwilian)
+* [Dapingian](dapingian)
+* [Floian](floian)
+* [Tremadocian](tremadocian)
 
 Below selected stratigraphic charts are provided for downloading:
 
