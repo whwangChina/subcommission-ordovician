@@ -89,7 +89,6 @@
         }
 
         #banner {
-            background: url("images/banner_01.jpg") no-repeat;
             display: block;
             min-height:200px;
             background-size: contain;
@@ -148,6 +147,18 @@
             display: block;
         }
     </style>
+    <script>
+        var banners = [
+            "https://stratigraphy.org/subcommission-cretaceous/images/banner-01.jpg",
+            "https://stratigraphy.org/subcommission-cretaceous/images/banner-02.jpg",
+            "https://stratigraphy.org/subcommission-cretaceous/images/banner-03.jpg",
+            "https://stratigraphy.org/subcommission-cretaceous/images/banner-04.jpg",
+            "https://stratigraphy.org/subcommission-cretaceous/images/banner-05.jpg",
+        ];
+        window.onload = function () {
+            document.getElementById('banner-img').src=banners[Math.floor(banners.length*Math.random())];  
+        };      
+    </script>      
 </head>
 <body>
     <div id="widther">
@@ -161,8 +172,9 @@
                 </div>
             </div>
         </div>
-        <div id="banner"></div>
-        <!--<div id="subcomm-age">&nbsp;</div>-->
+        <div id="banner">
+            <img id="banner-img" />
+        </div>
         <div id="body-grid">
             <div id="sidebar" style="grid-column: 1;">
                 {% include menu.html %}
