@@ -5,6 +5,14 @@ permalink: /conferences
 ---
 ## Conferences
 
+#### Virtual "Ordovician of the World" Conference
+The online Lille meeting will take place over four days: Monday 13th to Thursday 16th, September 2021
+
+The conference is free, but registration is required.
+
+Full details are available on the conference website: <https://lille2021.wordpress.com>.
+
+---
 
 #### 13th International Symposium on the Ordovician Symposium
 
@@ -24,11 +32,20 @@ Important Dates:
 * Scientific sessions, Novosibirsk: July 19-22, 2019
 * Post-Symposium field trip (Ordovician of the Siberian Platform): July 22-30, 2019
 
+---
 
 #### IGCP 653 Annual meeting in Yichang, China, October 2017
 
+---
+
 #### Dayangcha Workshop on the Cambrian-Ordovician boundary, September 20-25, 2017, Changchun, NE China
+
+---
 
 #### IGCP 653 Opening Meeting: Sept. 2016, Durham, UK
 
+---
+
 #### IGCP 591 Closing Meeting
+
+---
