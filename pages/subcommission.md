@@ -61,7 +61,7 @@ Dr Andrey Dronov is the Leading Scientist in the Laboratory of Phanerozoic Strat
 <img src="images/person-lefebvre.jpg" alt="Andrey" style="float:left; margin-right: 20px; width:150px;" />
 
 **Bertrand LEFEBVRE**  
- UMR 5276 LGL -TPE  
+UMR 5276 LGL -TPE  
 CNRS - Université de Lyon 1  
 Bâtiment GEODE, 69622 Villeurbanne Cedex, FRANCE  
 Tel: +33 (0)4 72 43 28 34  
@@ -69,6 +69,21 @@ E-mail: <Bertrand.Lefebvre@univ-lyon1.fr>
 <br />
 
 Bertrand LEFEBVRE is a specialist of Ordovician echinoderms (in particular ‘carpoids’). He studied in London (UK) and Lyon (France), where he defended his PhD in 1999. He was then recruited as CNRS researcher in Dijon (France) in 2001, and since 2007, he is back in Lyon. He was president of the French Palaeozoic Working Group (GFP, 2004-2011) and of the French Stratigraphic Committee (CFS, 2012-2015). In the past 20 years, he was largely involved in the description of the Lower Ordovician Fezouata Biota (Morocco), contributing to advances on palaeontological, sedimentologic, stratigraphic, and taphonomic aspects of this Lagerstätte.
+
+### Internet officer
+
+<img src="images/Alycia.jpg" alt="Alycia" style="float:left; margin-right: 20px; width:150px;" />
+
+**Alycia STIGALL**  
+Department of Geological Sciences  
+Ohio University  
+316 Clippinger Laboratories  
+Athens, Ohio 45701 USA  
+Tel: +1 (740) 593-3093  
+E-mail: <stigall@ohio.edu>  
+<br />
+
+Dr. Alycia Stigall is Professor and Chair of Geological Sciences at Ohio University in Athens, Ohio. She grew up collecting fossils from the Ordovician strata of the Cincinnati Arch, and she earned her BS from Ohio State University and MS and PhD at the University of Kansas.   Her research focuses on using marine benthos (typically brachiopods) to examine the relationships between diversification, extinction and biogeography with ecological and earth systems changes.  She has worked extensively documenting species invasions, speciation patterns and processes, and niche evolution within Laurentian taxa.
 
 ### Members:
 
