@@ -7,8 +7,10 @@ permalink: /links
 
 ### Databases and software
 
+* [Paleobiology database](https://paleobiodb.org/#/)
+* [Geobiodiversity database](http://www.geobiodiversity.com/home)
 * [Macrostrat database](http://macrostrat.org/)
-* [Paleobiology database](http://paleodb.org/)
+* [iDigBio (Integrated Digitized Biocollections)](https://www.idigbio.org)
 * [PAST – PAlaeontological STatistics](http://folk.uio.no/ohammer/past/)
 
 ### Ordovician links
@@ -16,10 +18,9 @@ permalink: /links
 * [IGCP Project 735: Rocks and the Rise of Ordovician Life](http://www.rocksnrol.wordpress.com/)
 * [IGCP Project 668: Equatorial Gondwanan History and Early Palaeozoic Evolutionary Dynamics](https://swern001.wixsite.com/igcp668)
 * [IGCP Project 653: The Onset of the Great Ordovician Biodiversity Event](http://www.igcp653.org/)
-* [Subcommission on Cambrian Stratigraphy](http://www.palaeontologie.uni-wuerzburg.de/casu1-R.htm)
-* [Subcommission on Silurian Stratigraphy](http://www.silurian.cn/)
 
 ### Stratigraphy links
 
 * [International Commission on Stratigraphy](https://stratigraphy.org)
-
+* [Subcommission on Cambrian Stratigraphy](https://cambrian.stratigraphy.org)
+* [Subcommission on Silurian Stratigraphy](http://silurian.stratigraphy.org/index.php/en/)
