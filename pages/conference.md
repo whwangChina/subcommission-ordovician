@@ -5,6 +5,18 @@ permalink: /conferences
 ---
 ## Conferences
 
+#### IGCP 735 conferences
+
+Many Ordovician conferences are being organized by IGCP Project 735 during 2021 to 2025.  Visit their project website: <https://rocksnrol.wordpress.com>. for the most recent information about these planned events.
+
+---
+
+#### 14th International Symposium on the Ordovician Symposium
+
+14th International Symposium on the Ordovician System will be held from July 16th to July 20th, 2023 in at Tallinn University (Estonia) in conjunction with the 3rd annual meeting of IGCP 735. Field excursions are planned for Ordovician sections of Estonia, Russia (the St. Petersburg area), and Sweden.
+
+---
+
 #### IGCP 653 Workshop
 The concluding meeting of IGCP 653 will occur in Lyon, France from 29-30 November 2021. 
 
@@ -15,7 +27,7 @@ More information is here: <https://bit.ly/3mLOIFg>.
 #### Virtual "Ordovician of the World" Conference
 The online meeting hosted by Lille University took place over four days: Monday 13th to Thursday 16th, September 2021
 
-Conference details and abstract volume are avaiable conference website: <https://lille2021.wordpress.com>.
+Conference details and abstract volume are avaiable on the conference website: <https://lille2021.wordpress.com>.
 
 ---
 
