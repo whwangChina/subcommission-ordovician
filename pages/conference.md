@@ -20,7 +20,7 @@ Many Ordovician conferences are being organized by IGCP Project 735 during 2021 
 #### IGCP 653 Workshop
 The concluding meeting of IGCP 653 will occur in Lyon, France from 29-30 November 2021. 
 
-More information is here: <https://bit.ly/3mLOIFg>.
+More information is here: <https://bit.ly/3mLOlFg>.
 
 ---
 
