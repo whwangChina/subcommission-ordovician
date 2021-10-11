@@ -3,17 +3,13 @@ layout: page
 title: "Conferences"
 permalink: /conferences
 ---
-## Conferences
+## Upcoming Conferences
 
-#### Upcoming IGCP 735 conferences
+#### IGCP 653 Workshop, Lyon, France, November 2021
 
-Many additional Ordovician conferences or sessions are being organized by IGCP Project 735 during 2021 to 2025.  Visit the project website: <https://rocksnrol.wordpress.com/meetings/> for the most recent information about these planned events.
+The concluding meeting of IGCP 653 will occur in Lyon, France from 29-30 November 2021. 
 
----
-
-#### 14th International Symposium on the Ordovician Symposium, Tallinn, Estonia, July 2023
-
-14th International Symposium on the Ordovician System will be held from July 16th to July 20th, 2023 at Tallinn University (Estonia) in conjunction with the 3rd annual meeting of IGCP 735. Field excursions are planned for Ordovician sections of Estonia, Russia (the St. Petersburg area), and Sweden.
+More information is here: <https://bit.ly/3mLOlFg>.
 
 ---
 
@@ -23,13 +19,19 @@ The second annual meeting of IGCP 735 will be held from 19-29 October at Cadi-Ay
 
 ---
 
-#### IGCP 653 Workshop, Lyon, France, November 2021
+#### 14th International Symposium on the Ordovician Symposium, Tallinn, Estonia, July 2023
 
-The concluding meeting of IGCP 653 will occur in Lyon, France from 29-30 November 2021. 
-
-More information is here: <https://bit.ly/3mLOlFg>.
+14th International Symposium on the Ordovician System will be held from July 16th to July 20th, 2023 at Tallinn University (Estonia) in conjunction with the 3rd annual meeting of IGCP 735. Field excursions are planned for Ordovician sections of Estonia, Russia (the St. Petersburg area), and Sweden.
 
 ---
+
+#### Upcoming IGCP 735 conferences
+
+Many additional Ordovician conferences or sessions are being organized by IGCP Project 735 during 2021 to 2025.  Visit the project website: <https://rocksnrol.wordpress.com/meetings/> for the most recent information about these planned events.
+
+---
+
+## Past Conferences
 
 #### Virtual "Ordovician of the World" Conference, September 2021
 
