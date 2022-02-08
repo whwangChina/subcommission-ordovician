@@ -5,7 +5,7 @@ permalink: /
 ---
 ## Welcome to the Subcommission on Ordovician Stratigraphy
 
-This is the homepage of the Ordovician Subcommission (SOS). The Ordovician community is a dynamic, international group of scientist investigating all aspects of the Earth system during the Ordovician Period. Our community gathers in both in traditional in-person meetings and through virtual conferences.
+This is the homepage of the Subcommission on Ordovician Stratigraphy (SOS). The Ordovician community is a dynamic, international group of scientist investigating all aspects of the Earth system during the Ordovician Period. Our community gathers in both in traditional in-person meetings and through virtual conferences.
 
 ---
 ### Ordovician meetings
