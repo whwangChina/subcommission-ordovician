@@ -5,17 +5,10 @@ permalink: /conferences
 ---
 ## Upcoming Conferences
 
-#### IGCP 653 Workshop, Lyon, France, November 2021
-
-The concluding meeting of IGCP 653 will occur in Lyon, France from 29-30 November 2021. 
-
-More information is here: <https://bit.ly/3mLOlFg>.
-
----
-
 #### 2nd Annual meeting of IGCP 735 in Marrakesh, Morocco, October 2022
 
-The second annual meeting of IGCP 735 will be held from 19-29 October at Cadi-Ayyad University, Marrakesh (Morocco). Field excursions are planned to Lower Palaeozoic sections of the Anti-Atlas. 
+The second annual meeting of IGCP 735 will be held from 19-29 October at Cadi-Ayyad University, Marrakesh (Morocco). Field excursions are planned to Lower Palaeozoic sections of the Anti-Atlas. Conference website: <http://ens-marrakech.ac.ma/projets/igcp735/>
+Pre-registration is available here: <https://forms.gle/sypEsuWNwkPkq4wU6>
 
 ---
 
@@ -32,6 +25,14 @@ Many additional Ordovician conferences or sessions are being organized by IGCP P
 ---
 
 ## Past Conferences
+
+#### IGCP 653 Workshop, Lyon, France, November 2021
+
+The concluding meeting of IGCP 653 will occur in Lyon, France from 29-30 November 2021. 
+
+More information is here: <https://bit.ly/3mLOlFg>.
+
+---
 
 #### Virtual "Ordovician of the World" Conference, September 2021
 
