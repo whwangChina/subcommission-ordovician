@@ -3,7 +3,7 @@ layout: page
 title: "Timescale & GSSPs"
 permalink: /timescale
 ---
-## Ordovician timescale
+## Ordovician Timescale
 
 Standard global stages of the Ordovician System are characterised on separate pages:
 
