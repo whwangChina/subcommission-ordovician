@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /
 ---
-## Ordovician Timescale
+## Welcome to the Ordovician Subcommission
 
 This is the homepage of the Ordovician Subcommission (SOS). The Ordovician community is a dynamic, international group of scientist investigating all aspects of the Earth system during the Ordovician Period. Our community gathers in both in traditional in-person meetings and through virtual conferences.
 
