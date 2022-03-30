@@ -9,7 +9,7 @@ permalink: /conferences
 
 The second annual meeting of IGCP 735 will be held from 19-29 October at Cadi-Ayyad University, Marrakesh (Morocco). Field excursions are planned to Lower Palaeozoic sections of the Anti-Atlas. Conference website: <http://ens-marrakech.ac.ma/projets/igcp735/>
 
-Pre-registration is available here: <https://forms.gle/sypEsuWNwkPkq4wU6>
+Registration is available here: <https://forms.gle/sypEsuWNwkPkq4wU6>  Extended abstracts are due May 1, 2022.
 
 ---
 
