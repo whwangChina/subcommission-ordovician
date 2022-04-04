@@ -48,6 +48,7 @@ Below recent newsletters are available for download in pdf format:
 * [No. 7 (1990)](files/Ordovician_News_1990.pdf)
 * [No. 6 (1988-1989)](files/Ordovician_News_1988.pdf)
 * [No. 5 (1987)](files/Ordovician_News_1987.pdf)
+* [No. 4 (1986)](files/Ordovician_News_1986.pdf)
 * [No. 3 (1985)](files/Ordovician_News_1985.pdf)
 * [No. 2 (1984)](files/Ordovician_News_1984.pdf)
 * [No. 1 (1983)](files/Ordovician_News_1983.pdf)
