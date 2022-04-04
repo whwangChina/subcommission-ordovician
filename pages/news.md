@@ -13,6 +13,7 @@ Below recent newsletters are available for download in pdf format:
     <img src="images/Ordovician_News_2020.jpg" style="border:solid 1px black; width:300px;" alt="link to Ordo News" />
 </a>
 
+* [No. 39 (2021)](files/Ordovician_News_2021.pdf)
 * [No. 38 (2020)](files/Ordovician_News_2020.pdf)
 * [No. 37 (2019)](files/Ordovician_News_2019.pdf)
 * [No. 36 (2018)](files/Ordovician_News_2018.pdf)
