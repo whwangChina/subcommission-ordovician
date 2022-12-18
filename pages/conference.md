@@ -13,7 +13,7 @@ This conference, organized by the ICS, brings together all of the subcommisions 
 
 #### 14th International Symposium on the Ordovician Symposium, Tallinn, Estonia, July 2023
 
-14th International Symposium on the Ordovician System will be held from July 19th to July 21st, 2023 at Tallinn University (Estonia) in conjunction with the 3rd annual meeting of IGCP 735. A pre-conference field excursion will explore Ordovician sections of Estonia. The post-confernce field exursions will examine classic sites in Sweden. Conference website: <http://isos14.org/>
+14th International Symposium on the Ordovician System will be held from July 19th to July 21st, 2023 at Tallinn University (Estonia) in conjunction with the 3rd annual meeting of IGCP 735. A pre-conference field excursion will explore Ordovician sections of Estonia. The post-confernce field exursions will examine classic sites in Sweden. Conference website: <http://isos14.org/>  Abstract and regular registration fee deadline is 1 April, 2023.
 
 ---
 
