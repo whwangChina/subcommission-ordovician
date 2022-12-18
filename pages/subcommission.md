@@ -75,15 +75,15 @@ Bertrand LEFEBVRE is a specialist of Ordovician echinoderms (in particular ‘ca
 <img src="images/Alycia.jpg" alt="Alycia" style="float:left; margin-right: 20px; width:150px;" />
 
 **Alycia STIGALL**  
-Department of Geological Sciences  
-Ohio University  
-316 Clippinger Laboratories  
-Athens, Ohio 45701 USA  
-Tel: +1 (740) 593-3093  
-E-mail: <stigall@ohio.edu>  
+Department of Earth and Planetary Sciences  
+University of Tennessee, Knoxville  
+602 Strong Hall, 1621 Cumberland Ave.  
+Knoxville, TN 37996 USA  
+Tel: +1 (865) 974-5499  
+E-mail: <stigall@utk.edu>  
 <br />
 
-Dr. Alycia Stigall is Professor and Chair of Geological Sciences at Ohio University in Athens, Ohio. She grew up collecting fossils from the Ordovician strata of the Cincinnati Arch, and she earned her BS from Ohio State University and MS and PhD at the University of Kansas.   Her research focuses on using marine benthos (typically brachiopods) to examine the relationships between diversification, extinction and biogeography with ecological and earth systems changes.  She has worked extensively documenting species invasions, speciation patterns and processes, and niche evolution within Laurentian taxa.
+Dr. Alycia Stigall is Jones/Bibee Professor and Head of Earth and Planetary Sciences at the University of Tennessee in Knoxville. She grew up collecting fossils from the Ordovician strata of the Cincinnati Arch, and she earned her BS from Ohio State University and MS and PhD at the University of Kansas.   Her research focuses on using marine benthos (typically brachiopods) to examine the relationships between diversification, extinction and biogeography with ecological and earth systems changes.  She has worked extensively documenting species invasions, speciation patterns and processes, and niche evolution within Laurentian taxa.
 
 ### Members:
 
