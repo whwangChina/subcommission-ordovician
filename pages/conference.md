@@ -5,11 +5,9 @@ permalink: /conferences
 ---
 ## Upcoming Conferences
 
-#### 2nd Annual meeting of IGCP 735 in Marrakesh, Morocco, October 2022
+#### STRATI, 4th International Congress on Stratigraphy, Lille, France, July 2023
 
-The second annual meeting of IGCP 735 will be held from 19-29 October at Cadi-Ayyad University, Marrakesh (Morocco). Field excursions are planned to Lower Palaeozoic sections of the Anti-Atlas. Conference website: <http://ens-marrakech.ac.ma/projets/igcp735/>
-
-Registration is available here: <https://forms.gle/sypEsuWNwkPkq4wU6>  Extended abstracts are due May 1, 2022.
+This conference, organized by the ICS, brings together all of the subcommisions for three days of indoor presentations and a wide variety of field excursions. Congress website: <https://strati2023.sciencesconf.org/> Second circular is now avaiable. Abstract and registration deadline is 28 Febrary, 2023.
 
 ---
 
@@ -27,9 +25,15 @@ Many additional Ordovician conferences or sessions are being organized by IGCP P
 
 ## Past Conferences
 
+#### 2nd Annual meeting of IGCP 735 in Marrakesh, Morocco, October 2022
+
+The second annual meeting of IGCP 735 was held from 19-29 October at Cadi-Ayyad University, Marrakesh (Morocco). Field excursions were held to Lower Palaeozoic sections of the Anti-Atlas. Conference website: <http://ens-marrakech.ac.ma/projets/igcp735/>
+
+---
+
 #### IGCP 653 Workshop, Lyon, France, November 2021
 
-The concluding meeting of IGCP 653 will occur in Lyon, France from 29-30 November 2021. 
+The concluding meeting of IGCP 653 occurred in Lyon, France from 29-30 November 2021. 
 
 More information is here: <https://bit.ly/3mLOlFg>.
 
