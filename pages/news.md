@@ -9,10 +9,11 @@ The *Ordovician News* is a newsletter of the Subcommission on Ordovician Stratig
 
 Below recent newsletters are available for download in pdf format:
 
-<a href="files/Ordovician_News_2021.pdf" style="float:right;">
+<a href="files/Ordovician_News_2022.pdf" style="float:right;">
     <img src="images/Ordovician_News_2021.jpg" style="border:solid 1px black; width:300px;" alt="link to Ordo News" />
 </a>
 
+* [No. 40 (2022)](files/Ordovician_News_2022.pdf)
 * [No. 39 (2021)](files/Ordovician_News_2021.pdf)
 * [No. 38 (2020)](files/Ordovician_News_2020.pdf)
 * [No. 37 (2019)](files/Ordovician_News_2019.pdf)
