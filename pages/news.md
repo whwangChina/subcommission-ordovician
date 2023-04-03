@@ -7,7 +7,7 @@ permalink: /news
 
 The *Ordovician News* is a newsletter of the Subcommission on Ordovician Stratigraphy. Compiled annually, it contains subcommission’s report on activities, discussion on Ordovician stratigraphy, data on current research and publications, list of people involved in Ordovician research, meeting announcements etc. Relevant contributions should be sent to the Secretary of the Subcommission. The newsletter is usually compiled in January each year and made available in March-April, thus mostly containing information about the previous year.
 
-Below recent newsletters are available for download in pdf format:
+All current and former newsletters are available for download in pdf format:
 
 <a href="files/Ordovician_News_2022.pdf" style="float:right;">
     <img src="images/Ordovician_News_2022.jpg" style="border:solid 1px black; width:300px;" alt="link to Ordo News" />
