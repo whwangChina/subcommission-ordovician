@@ -38,8 +38,8 @@ See the [local copy of the license deed](LICENSE) for details.
 *For website content:*  
 **Alycia Stigall**  
 Ordovician Subcommission Webmaster  
-Ohio University  
-<stigall@ohio.edu>  
+University of Tennessee, Knoxville  
+<stigall@utk.edu>  
 
 
 *For website technical matters:*  
