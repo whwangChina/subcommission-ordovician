@@ -5,26 +5,25 @@ permalink: /conferences
 ---
 ## Upcoming Conferences
 
-#### STRATI, 4th International Congress on Stratigraphy, Lille, France, July 2023
-
-This conference, organized by the ICS, brings together all of the subcommisions for three days of indoor presentations and a wide variety of field excursions. Congress website: <https://strati2023.sciencesconf.org/> Second circular is now avaiable. Abstract and registration deadline is 28 Febrary, 2023.
-
----
-
-#### 14th International Symposium on the Ordovician Symposium, Tallinn, Estonia, July 2023
-
-14th International Symposium on the Ordovician System will be held from July 19th to July 21st, 2023 at Tallinn University (Estonia) in conjunction with the 3rd annual meeting of IGCP 735. A pre-conference field excursion will explore Ordovician sections of Estonia. The post-confernce field exursions will examine classic sites in Sweden. Conference website: <http://isos14.org/>  Abstract and regular registration fee deadline is 9 April, 2023.
-
----
-
 #### Upcoming IGCP 735 conferences
 
-Many additional Ordovician conferences or sessions are being organized by IGCP Project 735 during 2021 to 2025.  Visit the project website: <https://rocksnrol.wordpress.com/meetings/> for the most recent information about these planned events.
+Many additional Ordovician conferences or sessions are being organized by IGCP Project 735 during 2021 to 2025.  Visit the project website: <https://rocksnrol.wordpress.com/meetings/> for the most recent information about these planned events including upcoming annual meetings in Argentina and China as well as organized sessions held in conjunction with other conferences.
 
 ---
 
 ## Past Conferences
 
+#### STRATI, 4th International Congress on Stratigraphy, Lille, France, July 2023
+
+This conference, organized by the ICS, brought together all of the subcommisions for three days of indoor presentations and a wide variety of field excursions. Congress website: <https://strati2023.sciencesconf.org/> 
+
+---
+
+#### 14th International Symposium on the Ordovician Symposium, Tallinn, Estonia, July 2023
+
+14th International Symposium on the Ordovician System was held from July 19th to July 21st, 2023 at Tallinn University (Estonia) in conjunction with the 3rd annual meeting of IGCP 735. A pre-conference field excursion explored Ordovician sections of Estonia. The post-confernce field exursions  examined classic sites in Sweden. Conference website: <http://isos14.org/>  Conference proceesings and field excursion guides are available on the website.
+
+---
 #### 2nd Annual meeting of IGCP 735 in Marrakesh, Morocco, October 2022
 
 The second annual meeting of IGCP 735 was held from 19-29 October at Cadi-Ayyad University, Marrakesh (Morocco). Field excursions were held to Lower Palaeozoic sections of the Anti-Atlas. Conference website: <http://ens-marrakech.ac.ma/projets/igcp735/>
