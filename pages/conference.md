@@ -9,6 +9,14 @@ permalink: /conferences
 
 Many additional Ordovician conferences or sessions are being organized by IGCP Project 735 during 2021 to 2025.  Visit the project website: <https://rocksnrol.wordpress.com/meetings/> for the most recent information about these planned events including upcoming annual meetings in Argentina and China as well as organized sessions held in conjunction with other conferences.
 
+#### 3rd Annual meeting of IGCP 735 in Córdoba, Argentina, October 2024
+
+The third annual meeting of IGCP 735 will be held from 6-13 October at Córdoba University, Córdoba (Argentina). Field excursions field excursion to Ordovician sections of the Precordillera Basin, San Juan Province. First circular: <https://rocksnrol.files.wordpress.com/2023/10/first-circular-igcp-2024.pdf>
+
+#### Field meeting of IGCP 735 in Llandrindod, Wales, July 2025
+
+The aim of this workshop is to encourage presentations describing total ecosystems and exceptionally preserved faunas and floras (especially ones that are less well known) from the Cambrian to Silurian. Fieldwork (two days) will include visits to the Castle Bank Lagerstätte, and a selection of places that will hopefully include Llanfawr.
+
 ---
 
 ## Past Conferences
