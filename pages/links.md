@@ -21,6 +21,6 @@ permalink: /links
 
 ### Stratigraphy links
 
-* [International Commission on Stratigraphy](https://stratigraphy.org)  IUGS 2023 Annual Report(files/IUGS_AnnualReport_2023.pdf)
+* [International Commission on Stratigraphy](https://stratigraphy.org)  IUGS 2023 Annual Report (files/IUGS_AnnualReport_2023.pdf)
 * [Subcommission on Cambrian Stratigraphy](https://cambrian.stratigraphy.org)
 * [Subcommission on Silurian Stratigraphy](http://silurian.stratigraphy.org/index.php/en/)
