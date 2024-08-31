@@ -39,7 +39,7 @@ Dr. Alycia Stigall is Jones/Bibee Professor and Head of Earth and Planetary Scie
 
 
 <img src="images/person-zhan.gif" alt="Renbin" style="float:left; margin-right: 20px; width:150px;" />
-<img src="images/Alycia.jpg" alt="Alycia" style="float:left; margin-right: 20px; width:150px;" />
+<img src="images/person-zhan.gif" alt="Renbin" style="float:left; margin-right: 20px; width:150px;" />
 
 **ZHAN Renbin**  
 State Key Laboratory of Paleobiology and Stratigraphy  
