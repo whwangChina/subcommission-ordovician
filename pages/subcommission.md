@@ -59,25 +59,25 @@ Working on the Early Paleozoic (mainly Ordovician and Silurian) brachiopods and 
 <img src="images/xxx.jpg" alt="Annalisa" style="float:left; margin-right: 20px; width:150px;" />
 
 **Annalisa FERRETTI**  
-Dipartimento di Scienze Chimiche e Geologiche
-Università degli Studi di Modena e Reggio Emilia
-via Campi 103, 41125 Modena, ITALY  
+Dipartimento di Scienze Chimiche e Geologiche  
+Università degli Studi di Modena e Reggio Emilia   
+via Campi 103, 41125 Modena, ITALY     
 Tel:   
 E-mail: <Bferretti@unimore.it>  
 <br />
 
-Dr.Annalisa Ferretti is a conodont specialist who works on Ordovician conodont faunas of Europe and elsewhere.
+Dr. Annalisa Ferretti is a conodont specialist who works on Ordovician conodont faunas of Europe and elsewhere.
 
 ### Internet officer
 
 <img src="images/xxx.jpg" alt="Wenhui" style="float:left; margin-right: 20px; width:150px;" />
 
 **WANG Wenhui**  
-School of Geosciences and Info-Physics
-Central South University
-Changsha, CHINA
+School of Geosciences and Info-Physics   
+Central South University   
+Changsha, CHINA   
 Tel: +86 13951830656  
-E-mail: <wwhever@126.com>  
+E-mail: <wwhever@126.com>
 <br />
 
 Dr. Wang is a graptolite specialist working on biostratigraphy and chemo-stratigraphy around the Cambrian-Ordovician boundary and Ordovician-Silurian boundary.
