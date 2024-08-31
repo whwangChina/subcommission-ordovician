@@ -9,7 +9,7 @@ permalink: /subcommission
 
 ### Chair
 
-<img src="images/Servais16-150x225.jpg" alt="Andrey" style="float:left; margin-right: 20px; width:150px;" />
+<img src="images/Servais16-150x225.jpg" alt="Thomas" style="float:left; margin-right: 20px; width:150px;" />
 
 **Thomas SERVAIS**  
 Unité EVO ECO PALEO – Evolution, Ecologie et Paléontologie  
