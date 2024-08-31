@@ -38,7 +38,8 @@ E-mail: <stigall@utk.edu>
 Dr. Alycia Stigall is Jones/Bibee Professor and Head of Earth and Planetary Sciences at the University of Tennessee in Knoxville. She grew up collecting fossils from the Ordovician strata of the Cincinnati Arch, and she earned her BS from Ohio State University and MS and PhD at the University of Kansas.  Her research focuses on using marine benthos (typically brachiopods) to examine the relationships between diversification, extinction and biogeography with ecological and earth systems changes.  She has worked extensively documenting species invasions, speciation patterns and processes, and niche evolution within Laurentian taxa.
 
 
-<img src="images/person-zhan.gif" alt="Zhan" style="float:left; margin-right: 20px; width:150px;" />
+<img src="images/person-zhan.gif" alt="Renbin" style="float:left; margin-right: 20px; width:150px;" />
+<img src="images/Alycia.jpg" alt="Alycia" style="float:left; margin-right: 20px; width:150px;" />
 
 **ZHAN Renbin**  
 State Key Laboratory of Paleobiology and Stratigraphy  
