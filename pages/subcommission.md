@@ -19,7 +19,7 @@ Tel: +33 (0)3 20 33 72 20
 E-mail: <Thomas.Servais@univ-lille1.fr>  
 <br />
 
-Dr. Thomas SERVAIS is Research Director at the French National Centre for Scientific Research (CNRS), based at the University of Lille. Trained as a geologist and palaeontologist in Namur and Liège (Belgium), he continued post-doctoral research in Berlin (Germany) and at the British Geological Survey (Keyworth-Nottingham, UK), working on the biostratigraphy, palaeoecology and palaeogeography of different fossil groups, in particular the enigmatic microfossil group of the acritarchs.
+Thomas SERVAIS is Research Director at the French National Centre for Scientific Research (CNRS), based at the University of Lille. Trained as a geologist and palaeontologist in Namur and Liège (Belgium), he continued post-doctoral research in Berlin (Germany) and at the British Geological Survey (Keyworth-Nottingham, UK), working on the biostratigraphy, palaeoecology and palaeogeography of different fossil groups, in particular the enigmatic microfossil group of the acritarchs.
 
 
 ### Vice Chairs
