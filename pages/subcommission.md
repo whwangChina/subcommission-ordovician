@@ -70,7 +70,7 @@ Dr. Annalisa Ferretti is a conodont specialist who works on Ordovician conodont 
 
 ### Internet officer
 
-<img src="images/Wenhui-Wang.jpg" alt="Wenhui" style="float:left; margin-right: 20px; width:150px;" />
+<img src="images/Wenhui_Wang.jpg" alt="Wenhui" style="float:left; margin-right: 20px; width:150px;" />
 
 **WANG Wenhui**  
 School of Geosciences and Info-Physics   
