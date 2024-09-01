@@ -36,10 +36,9 @@ See the [local copy of the license deed](LICENSE) for details.
 
 ## Support and contacts
 *For website content:*  
-**Alycia Stigall**  
+**WANG Wenhui**  
 Ordovician Subcommission Webmaster  
-University of Tennessee, Knoxville  
-<stigall@utk.edu>  
+<wwhever@126.com>  
 
 
 *For website technical matters:*  
