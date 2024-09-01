@@ -70,7 +70,7 @@ Dr. Annalisa Ferretti is a conodont specialist who works on Ordovician conodont 
 
 ### Internet officer
 
-<img src="images/xxx.jpg" alt="Wenhui" style="float:left; margin-right: 20px; width:150px;" />
+<img src="images/Wenhui-Wang.jpg" alt="Wenhui" style="float:left; margin-right: 20px; width:150px;" />
 
 **WANG Wenhui**  
 School of Geosciences and Info-Physics   
@@ -80,7 +80,7 @@ Tel: +86 13951830656
 E-mail: <wwhever@126.com>
 <br />
 
-Dr. Wang is a graptolite specialist working on biostratigraphy and chemo-stratigraphy around the Cambrian-Ordovician boundary and Ordovician-Silurian boundary.
+Wenhui WANG, an associate professor at the Cental South University, China, got her bachelor degree in China University of Geosciences (Wuhan) in 2007, and PhD at Nanjing University, China in 2013. She is now the voting member of ISOS, a member of the editorial board of Palaeogeography, Palaeoclimatology, Palaeoecology. She is now working on the biostratigraphy, palaeoecology and palaeogeography of early Paleozoic planktic fossil groups, in particular graptolite and chitinozoans around the Cambrian-Ordovician boundary and Ordovician-Silurian boundary.
 
 
 ### Newsletter Editor
