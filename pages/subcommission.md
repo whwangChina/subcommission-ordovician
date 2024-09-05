@@ -114,7 +114,7 @@ Bertrand LEFEBVRE is a specialist of Ordovician echinoderms (in particular ‘ca
 * Patrick I. McLAUGHLIN (USA)
 * Tõnu MEIDLA (Estonia)
 * Elena RAEVSKAYA (Russia)
-* Claudio RUBINSTEIN (Argentina)
+* Claudia RUBINSTEIN (Argentina)
 * Firuza SALIMOVA (Uzbekistan)
 * Thomas SERVAIS (France)
 * Alycia STIGALL (USA)
