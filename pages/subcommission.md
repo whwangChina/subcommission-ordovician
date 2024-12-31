@@ -35,9 +35,7 @@ Tel: +1 (865) 974-5499
 E-mail: <stigall@utk.edu>  
 <br />
 
-Alycia STIGALL is Jones/Bibee Professor and Head of the Departmen of Earth, Environmental & Planetary Sciences at the University of Tennessee in Knoxville. She grew up collecting fossils from the Upper Ordovician strata of the Cincinnati Arch, and she earned her BS from Ohio State University and MS and PhD at the University of Kansas. She completed post-doctoral research at Ohio State University, was a visiting research professor at Yale Univeristy, and spent 18 years on faculy in the Department of Geological Sciences at Ohio University. In addition to her work on the Subcommision on Ordovician Stratigraphy, Alycia has served in numerous roles for the Paleontological Society and was a co-leader of IGCP 653: The onset of the Great Ordovician Biodiversification Event. 
-
-Alycia's research focuses on using marine benthos (typically brachiopods) to examine the relationships between diversification, extinction and biogeography with ecological and earth systems changes. Recent work has emphasized understanding diversification processes and feedback loops during the Great Ordovician Biodiversfication Event and biotic response to dispersal and invasion events including the Katian Richmondian Invasion using a combination of phylogenetic, ecological niche modelling, paleoecological, and biogeographic analyses. She has worked extensively documenting species invasions, speciation patterns and processes, and niche evolution within Laurentian taxa. 
+Alycia STIGALL is Jones/Bibee Professor and Head of the Departmen of Earth, Environmental & Planetary Sciences at the University of Tennessee in Knoxville. She holds degrees from the Ohio State University and the University of Kansas and was previously a faculty member at Ohio University.  Her research focuses on using marine benthos (typically brachiopods) to examine the relationships between diversification, extinction, and biogeography with ecological and earth systems changes.
 
 
 <img src="images/person-zhan.gif" alt="Renbin" style="float:left; margin-right: 20px; width:150px;" />
