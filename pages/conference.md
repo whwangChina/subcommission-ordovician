@@ -5,6 +5,25 @@ permalink: /conferences
 ---
 ## Upcoming Conferences
 
+We are very pleased to send you the second circular for the IGCP735 regional meeting and field excursion, which will take place in Kitab Geological National Nature Park, Uzbekistan, from August 4 to 11, 2026.
+ 
+With this email, you will also find the registration form and the template for abstracts.
+ 
+Important dates:
+* deadline for registration: February 15th, 2026 (be careful: the number of participants is limited);
+* deadline for abstract submission: March 31st, 2026
+ 
+For any information, please contact Firuza Salimova: coral06@mail.ru
+
+The first circular of the IGCP 735 regional workshop and field excursion at the Kitab Geological National Natural Park, Uzbekistan (August 4  to 11, 2026) has been released.
+ Important dates:
+* Registration will open in January 2026 (be careful: the number of participants is limited);
+* deadline for abstract submission: March 31st, 2026
+ For any information, please contact Firuza Salimova: coral06@mail.ru
+
+<img width="468" height="239" alt="image" src="https://github.com/user-attachments/assets/9bdbd563-3653-4893-9d06-3bee4b0bc399" />
+
+
 #### Upcoming IGCP 735 conferences
 
 Many additional Ordovician conferences or sessions are being organized by IGCP Project 735 during 2021 to 2025.  Visit the project website: <https://rocksnrol.wordpress.com/meetings/> for the most recent information about these planned events including upcoming annual meetings in Argentina and China as well as organized sessions held in conjunction with other conferences.
@@ -20,6 +39,11 @@ The aim of this workshop is to encourage presentations describing total ecosyste
 ---
 
 ## Past Conferences
+
+From 17th to 21st October, the 2025 Annual Meeting of IGCP Project 735 convened at Central South University in Changsha, China. Approximately 70 participants attended. The programme featured 35 oral presentations, 21 poster displays, and one workshop. The conference also included a one-day field trip during the meeting and a five-day post-conference field excursion. Three students received the Best Oral Presentation award, and one student received the Best Poster Presentation award.
+
+The IGCP735 regional meeting was held in Camaret (Brittany, France) between the 21st and 23rd September 2025. The meeting report, the agenda of the meeting and a compilation of the meeting’s abstracts (talks and posters) is available here: https://www.assopaleo.fr/medias/files/apf-nume-ro-spe-cial-3.pdf
+<img width="415" height="534" alt="image" src="https://github.com/user-attachments/assets/a7458d32-b5d3-4da6-9c73-3e376c3f574a" />
 
 #### STRATI, 4th International Congress on Stratigraphy, Lille, France, July 2023
 
