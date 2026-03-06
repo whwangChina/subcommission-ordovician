@@ -5,8 +5,6 @@ permalink: /conferences
 ---
 ## Upcoming Conferences
 
-Test!
-
 We are very pleased to send you the second circular for the IGCP735 regional meeting and field excursion, which will take place in Kitab Geological National Nature Park, Uzbekistan, from August 4 to 11, 2026.
  
 With this email, you will also find the registration form and the template for abstracts.
