@@ -41,7 +41,6 @@ The aim of this workshop is to encourage presentations describing total ecosyste
 From 17th to 21st October, the 2025 Annual Meeting of IGCP Project 735 convened at Central South University in Changsha, China. Approximately 70 participants attended. The programme featured 35 oral presentations, 21 poster displays, and one workshop. The conference also included a one-day field trip during the meeting and a five-day post-conference field excursion. Three students received the Best Oral Presentation award, and one student received the Best Poster Presentation award.
 
 The IGCP735 regional meeting was held in Camaret (Brittany, France) between the 21st and 23rd September 2025. The meeting report, the agenda of the meeting and a compilation of the meeting’s abstracts (talks and posters) is available here: https://www.assopaleo.fr/medias/files/apf-nume-ro-spe-cial-3.pdf
-<img width="415" height="534" alt="image" src="https://github.com/user-attachments/assets/a7458d32-b5d3-4da6-9c73-3e376c3f574a" />
 
 #### STRATI, 4th International Congress on Stratigraphy, Lille, France, July 2023
 
