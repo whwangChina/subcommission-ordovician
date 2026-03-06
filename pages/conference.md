@@ -23,8 +23,6 @@ The first circular of the IGCP 735 regional workshop and field excursion at the 
 * deadline for abstract submission: March 31st, 2026
  For any information, please contact Firuza Salimova: coral06@mail.ru
 
-<img width="468" height="239" alt="image" src="https://github.com/user-attachments/assets/9bdbd563-3653-4893-9d06-3bee4b0bc399" />
-
 
 #### Upcoming IGCP 735 conferences
 
